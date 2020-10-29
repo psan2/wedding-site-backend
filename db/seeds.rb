@@ -9,7 +9,8 @@
 testContact = Contact.create(
   first_name: "Test",
   last_name: "Testerson",
-  phone_number: 1234567890,
+  phone: 1234567890,
+  email: "test@testing.com",
   address_1: "123 Main St",
   city: "Goodtown",
   state: "WA",
